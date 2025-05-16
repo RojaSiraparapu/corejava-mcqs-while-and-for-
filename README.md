@@ -1,0 +1,1 @@
+# corejava-mcqs-while-and-for-
